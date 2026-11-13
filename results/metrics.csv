@@ -1,0 +1,7 @@
+﻿strategy,split,N,hit1,hit3,evidence_split,filter_questions,filter_ok
+A,dev,16,9,13,1,3,1
+A,test,5,2,3,0,1,0
+B,dev,16,9,13,1,3,1
+B,test,5,3,5,0,1,0
+C,dev,16,9,13,1,3,3
+C,test,5,3,5,0,1,1

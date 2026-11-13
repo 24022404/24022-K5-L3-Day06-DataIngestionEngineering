@@ -1,0 +1,472 @@
+{
+  "sources": [
+    {
+      "source_id": "strunk-elements-of-style-1920",
+      "title": "The Elements of Style (1920 edition), William Strunk Jr.",
+      "source_path_or_url": "https://www.gutenberg.org/ebooks/37134 (plain text UTF-8: https://www.gutenberg.org/ebooks/37134.txt.utf-8)",
+      "local_path": "data/raw/elements_of_style.txt",
+      "license_or_permission": "Public domain in the USA (Project Gutenberg eBook #37134, copyright status listed as 'Public domain in the USA'); redistributed with the Project Gutenberg License header kept in the raw file. Users outside the USA should check local law.",
+      "snapshot_version": "Project Gutenberg eBook #37134, release 2011-08-18, most recently updated 2011-08-19",
+      "accessed_at": "2026-11-13",
+      "language": "en",
+      "physical_pages": "N/A (plain text without page breaks)",
+      "page_counting_rule": "Body from 'I. INTRODUCTORY' to the last exercise (before the end-of-book transcriber correction list). Gutenberg header/licence, title page, table of contents and correction list are excluded. Text is Unicode-NFC normalized, CRLF->LF, italic/bold markers (_x_, =x=) removed. Paragraphs are grouped in reading order into units of >= 1500 normalized characters; units never cross a chapter; a short chapter tail is merged into the previous unit. No text is duplicated.",
+      "n_units": 47,
+      "n_units_ge_1500_chars": 47,
+      "total_chars": 80797,
+      "metadata_fields": {
+        "document_id": "str, constant",
+        "source": "str, Gutenberg URL",
+        "page": "int, unit number 1..47",
+        "page_id": "str",
+        "chapter": "int 1..7, read from the chapter headings in the text (filter field)",
+        "chapter_title": "str, from heading"
+      },
+      "units": [
+        {
+          "page": 1,
+          "page_id": "strunk-elements-of-style-1920-p01",
+          "chapter": 1,
+          "chapter_title": "Introductory",
+          "rules": [],
+          "n_chars": 2874
+        },
+        {
+          "page": 2,
+          "page_id": "strunk-elements-of-style-1920-p02",
+          "chapter": 2,
+          "chapter_title": "Elementary Rules Of Usage",
+          "rules": [
+            1,
+            2,
+            3
+          ],
+          "n_chars": 1650
+        },
+        {
+          "page": 3,
+          "page_id": "strunk-elements-of-style-1920-p03",
+          "chapter": 2,
+          "chapter_title": "Elementary Rules Of Usage",
+          "rules": [
+            3
+          ],
+          "n_chars": 1548
+        },
+        {
+          "page": 4,
+          "page_id": "strunk-elements-of-style-1920-p04",
+          "chapter": 2,
+          "chapter_title": "Elementary Rules Of Usage",
+          "rules": [
+            3,
+            4
+          ],
+          "n_chars": 1550
+        },
+        {
+          "page": 5,
+          "page_id": "strunk-elements-of-style-1920-p05",
+          "chapter": 2,
+          "chapter_title": "Elementary Rules Of Usage",
+          "rules": [
+            4
+          ],
+          "n_chars": 1528
+        },
+        {
+          "page": 6,
+          "page_id": "strunk-elements-of-style-1920-p06",
+          "chapter": 2,
+          "chapter_title": "Elementary Rules Of Usage",
+          "rules": [
+            4,
+            5
+          ],
+          "n_chars": 1593
+        },
+        {
+          "page": 7,
+          "page_id": "strunk-elements-of-style-1920-p07",
+          "chapter": 2,
+          "chapter_title": "Elementary Rules Of Usage",
+          "rules": [
+            5
+          ],
+          "n_chars": 1522
+        },
+        {
+          "page": 8,
+          "page_id": "strunk-elements-of-style-1920-p08",
+          "chapter": 2,
+          "chapter_title": "Elementary Rules Of Usage",
+          "rules": [
+            5,
+            6,
+            7
+          ],
+          "n_chars": 2687
+        },
+        {
+          "page": 9,
+          "page_id": "strunk-elements-of-style-1920-p09",
+          "chapter": 3,
+          "chapter_title": "Elementary Principles Of Composition",
+          "rules": [
+            8
+          ],
+          "n_chars": 1522
+        },
+        {
+          "page": 10,
+          "page_id": "strunk-elements-of-style-1920-p10",
+          "chapter": 3,
+          "chapter_title": "Elementary Principles Of Composition",
+          "rules": [
+            8
+          ],
+          "n_chars": 1534
+        },
+        {
+          "page": 11,
+          "page_id": "strunk-elements-of-style-1920-p11",
+          "chapter": 3,
+          "chapter_title": "Elementary Principles Of Composition",
+          "rules": [
+            9
+          ],
+          "n_chars": 1811
+        },
+        {
+          "page": 12,
+          "page_id": "strunk-elements-of-style-1920-p12",
+          "chapter": 3,
+          "chapter_title": "Elementary Principles Of Composition",
+          "rules": [
+            9
+          ],
+          "n_chars": 1851
+        },
+        {
+          "page": 13,
+          "page_id": "strunk-elements-of-style-1920-p13",
+          "chapter": 3,
+          "chapter_title": "Elementary Principles Of Composition",
+          "rules": [
+            9
+          ],
+          "n_chars": 1562
+        },
+        {
+          "page": 14,
+          "page_id": "strunk-elements-of-style-1920-p14",
+          "chapter": 3,
+          "chapter_title": "Elementary Principles Of Composition",
+          "rules": [
+            9,
+            10
+          ],
+          "n_chars": 1535
+        },
+        {
+          "page": 15,
+          "page_id": "strunk-elements-of-style-1920-p15",
+          "chapter": 3,
+          "chapter_title": "Elementary Principles Of Composition",
+          "rules": [
+            10
+          ],
+          "n_chars": 1746
+        },
+        {
+          "page": 16,
+          "page_id": "strunk-elements-of-style-1920-p16",
+          "chapter": 3,
+          "chapter_title": "Elementary Principles Of Composition",
+          "rules": [
+            10,
+            11
+          ],
+          "n_chars": 1560
+        },
+        {
+          "page": 17,
+          "page_id": "strunk-elements-of-style-1920-p17",
+          "chapter": 3,
+          "chapter_title": "Elementary Principles Of Composition",
+          "rules": [
+            11,
+            12
+          ],
+          "n_chars": 1773
+        },
+        {
+          "page": 18,
+          "page_id": "strunk-elements-of-style-1920-p18",
+          "chapter": 3,
+          "chapter_title": "Elementary Principles Of Composition",
+          "rules": [
+            12
+          ],
+          "n_chars": 2023
+        },
+        {
+          "page": 19,
+          "page_id": "strunk-elements-of-style-1920-p19",
+          "chapter": 3,
+          "chapter_title": "Elementary Principles Of Composition",
+          "rules": [
+            12,
+            13
+          ],
+          "n_chars": 1521
+        },
+        {
+          "page": 20,
+          "page_id": "strunk-elements-of-style-1920-p20",
+          "chapter": 3,
+          "chapter_title": "Elementary Principles Of Composition",
+          "rules": [
+            13
+          ],
+          "n_chars": 1545
+        },
+        {
+          "page": 21,
+          "page_id": "strunk-elements-of-style-1920-p21",
+          "chapter": 3,
+          "chapter_title": "Elementary Principles Of Composition",
+          "rules": [
+            13,
+            14
+          ],
+          "n_chars": 1653
+        },
+        {
+          "page": 22,
+          "page_id": "strunk-elements-of-style-1920-p22",
+          "chapter": 3,
+          "chapter_title": "Elementary Principles Of Composition",
+          "rules": [
+            14,
+            15
+          ],
+          "n_chars": 1625
+        },
+        {
+          "page": 23,
+          "page_id": "strunk-elements-of-style-1920-p23",
+          "chapter": 3,
+          "chapter_title": "Elementary Principles Of Composition",
+          "rules": [
+            15
+          ],
+          "n_chars": 1878
+        },
+        {
+          "page": 24,
+          "page_id": "strunk-elements-of-style-1920-p24",
+          "chapter": 3,
+          "chapter_title": "Elementary Principles Of Composition",
+          "rules": [
+            16
+          ],
+          "n_chars": 1569
+        },
+        {
+          "page": 25,
+          "page_id": "strunk-elements-of-style-1920-p25",
+          "chapter": 3,
+          "chapter_title": "Elementary Principles Of Composition",
+          "rules": [
+            16
+          ],
+          "n_chars": 1545
+        },
+        {
+          "page": 26,
+          "page_id": "strunk-elements-of-style-1920-p26",
+          "chapter": 3,
+          "chapter_title": "Elementary Principles Of Composition",
+          "rules": [
+            17
+          ],
+          "n_chars": 1570
+        },
+        {
+          "page": 27,
+          "page_id": "strunk-elements-of-style-1920-p27",
+          "chapter": 3,
+          "chapter_title": "Elementary Principles Of Composition",
+          "rules": [
+            17,
+            18
+          ],
+          "n_chars": 1594
+        },
+        {
+          "page": 28,
+          "page_id": "strunk-elements-of-style-1920-p28",
+          "chapter": 3,
+          "chapter_title": "Elementary Principles Of Composition",
+          "rules": [
+            18
+          ],
+          "n_chars": 1607
+        },
+        {
+          "page": 29,
+          "page_id": "strunk-elements-of-style-1920-p29",
+          "chapter": 4,
+          "chapter_title": "A Few Matters Of Form",
+          "rules": [],
+          "n_chars": 1543
+        },
+        {
+          "page": 30,
+          "page_id": "strunk-elements-of-style-1920-p30",
+          "chapter": 4,
+          "chapter_title": "A Few Matters Of Form",
+          "rules": [],
+          "n_chars": 1691
+        },
+        {
+          "page": 31,
+          "page_id": "strunk-elements-of-style-1920-p31",
+          "chapter": 4,
+          "chapter_title": "A Few Matters Of Form",
+          "rules": [],
+          "n_chars": 1555
+        },
+        {
+          "page": 32,
+          "page_id": "strunk-elements-of-style-1920-p32",
+          "chapter": 5,
+          "chapter_title": "Words And Expressions Commonly Misused",
+          "rules": [],
+          "n_chars": 1510
+        },
+        {
+          "page": 33,
+          "page_id": "strunk-elements-of-style-1920-p33",
+          "chapter": 5,
+          "chapter_title": "Words And Expressions Commonly Misused",
+          "rules": [],
+          "n_chars": 1585
+        },
+        {
+          "page": 34,
+          "page_id": "strunk-elements-of-style-1920-p34",
+          "chapter": 5,
+          "chapter_title": "Words And Expressions Commonly Misused",
+          "rules": [],
+          "n_chars": 1582
+        },
+        {
+          "page": 35,
+          "page_id": "strunk-elements-of-style-1920-p35",
+          "chapter": 5,
+          "chapter_title": "Words And Expressions Commonly Misused",
+          "rules": [],
+          "n_chars": 1717
+        },
+        {
+          "page": 36,
+          "page_id": "strunk-elements-of-style-1920-p36",
+          "chapter": 5,
+          "chapter_title": "Words And Expressions Commonly Misused",
+          "rules": [],
+          "n_chars": 1574
+        },
+        {
+          "page": 37,
+          "page_id": "strunk-elements-of-style-1920-p37",
+          "chapter": 5,
+          "chapter_title": "Words And Expressions Commonly Misused",
+          "rules": [],
+          "n_chars": 1530
+        },
+        {
+          "page": 38,
+          "page_id": "strunk-elements-of-style-1920-p38",
+          "chapter": 5,
+          "chapter_title": "Words And Expressions Commonly Misused",
+          "rules": [],
+          "n_chars": 1516
+        },
+        {
+          "page": 39,
+          "page_id": "strunk-elements-of-style-1920-p39",
+          "chapter": 5,
+          "chapter_title": "Words And Expressions Commonly Misused",
+          "rules": [],
+          "n_chars": 1558
+        },
+        {
+          "page": 40,
+          "page_id": "strunk-elements-of-style-1920-p40",
+          "chapter": 5,
+          "chapter_title": "Words And Expressions Commonly Misused",
+          "rules": [],
+          "n_chars": 1583
+        },
+        {
+          "page": 41,
+          "page_id": "strunk-elements-of-style-1920-p41",
+          "chapter": 5,
+          "chapter_title": "Words And Expressions Commonly Misused",
+          "rules": [],
+          "n_chars": 1510
+        },
+        {
+          "page": 42,
+          "page_id": "strunk-elements-of-style-1920-p42",
+          "chapter": 5,
+          "chapter_title": "Words And Expressions Commonly Misused",
+          "rules": [],
+          "n_chars": 1959
+        },
+        {
+          "page": 43,
+          "page_id": "strunk-elements-of-style-1920-p43",
+          "chapter": 5,
+          "chapter_title": "Words And Expressions Commonly Misused",
+          "rules": [],
+          "n_chars": 2896
+        },
+        {
+          "page": 44,
+          "page_id": "strunk-elements-of-style-1920-p44",
+          "chapter": 6,
+          "chapter_title": "Spelling",
+          "rules": [],
+          "n_chars": 2221
+        },
+        {
+          "page": 45,
+          "page_id": "strunk-elements-of-style-1920-p45",
+          "chapter": 7,
+          "chapter_title": "Exercises On Chapters Ii And Iii",
+          "rules": [],
+          "n_chars": 1825
+        },
+        {
+          "page": 46,
+          "page_id": "strunk-elements-of-style-1920-p46",
+          "chapter": 7,
+          "chapter_title": "Exercises On Chapters Ii And Iii",
+          "rules": [],
+          "n_chars": 1510
+        },
+        {
+          "page": 47,
+          "page_id": "strunk-elements-of-style-1920-p47",
+          "chapter": 7,
+          "chapter_title": "Exercises On Chapters Ii And Iii",
+          "rules": [],
+          "n_chars": 1956
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+body: chars 4279..85221 of raw (104764 chars); dropped Gutenberg header/licence, title page, table of contents, end-of-book correction list
+paragraphs=647 units=47 short_units(<1500)=none
+empty/unreadable units: none (plain UTF-8 text, no OCR needed)

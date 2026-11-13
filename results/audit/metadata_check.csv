@@ -1,0 +1,46 @@
+﻿strategy,id,rank,chunk_id,document_id,source,page,chapter,filter,auto_text_in_page_and_fields_match,manual_ok,note
+A,q17,1,A-strunk-elements-of-style-1920-p24-000,strunk-elements-of-style-1920,https://www.gutenberg.org/ebooks/37134,24,3,null,True,True,page và chapter khớp nguồn
+A,q17,2,A-strunk-elements-of-style-1920-p11-000,strunk-elements-of-style-1920,https://www.gutenberg.org/ebooks/37134,11,3,null,True,True,page và chapter khớp nguồn
+A,q17,3,A-strunk-elements-of-style-1920-p11-001,strunk-elements-of-style-1920,https://www.gutenberg.org/ebooks/37134,11,3,null,True,True,page và chapter khớp nguồn
+A,q18,1,A-strunk-elements-of-style-1920-p37-002,strunk-elements-of-style-1920,https://www.gutenberg.org/ebooks/37134,37,5,null,True,True,page và chapter khớp nguồn
+A,q18,2,A-strunk-elements-of-style-1920-p37-003,strunk-elements-of-style-1920,https://www.gutenberg.org/ebooks/37134,37,5,null,True,True,page và chapter khớp nguồn
+A,q18,3,A-strunk-elements-of-style-1920-p34-001,strunk-elements-of-style-1920,https://www.gutenberg.org/ebooks/37134,34,5,null,True,True,page và chapter khớp nguồn
+A,q19,1,A-strunk-elements-of-style-1920-p36-003,strunk-elements-of-style-1920,https://www.gutenberg.org/ebooks/37134,36,5,null,True,True,page và chapter khớp nguồn
+A,q19,2,A-strunk-elements-of-style-1920-p33-000,strunk-elements-of-style-1920,https://www.gutenberg.org/ebooks/37134,33,5,null,True,True,page và chapter khớp nguồn
+A,q19,3,A-strunk-elements-of-style-1920-p43-000,strunk-elements-of-style-1920,https://www.gutenberg.org/ebooks/37134,43,5,null,True,True,page và chapter khớp nguồn
+A,q20,1,A-strunk-elements-of-style-1920-p44-004,strunk-elements-of-style-1920,https://www.gutenberg.org/ebooks/37134,44,6,null,True,True,page và chapter khớp nguồn
+A,q20,2,A-strunk-elements-of-style-1920-p44-000,strunk-elements-of-style-1920,https://www.gutenberg.org/ebooks/37134,44,6,null,True,True,page và chapter khớp nguồn
+A,q20,3,A-strunk-elements-of-style-1920-p07-000,strunk-elements-of-style-1920,https://www.gutenberg.org/ebooks/37134,7,2,null,True,True,page và chapter khớp nguồn; nằm ngoài chương VI người dùng yêu cầu (không filter)
+A,q21,1,A-strunk-elements-of-style-1920-p31-002,strunk-elements-of-style-1920,https://www.gutenberg.org/ebooks/37134,31,4,null,True,True,page và chapter khớp nguồn
+A,q21,2,A-strunk-elements-of-style-1920-p23-000,strunk-elements-of-style-1920,https://www.gutenberg.org/ebooks/37134,23,3,null,True,True,page và chapter khớp nguồn
+A,q21,3,A-strunk-elements-of-style-1920-p27-000,strunk-elements-of-style-1920,https://www.gutenberg.org/ebooks/37134,27,3,null,True,True,page và chapter khớp nguồn
+B,q17,1,B-strunk-elements-of-style-1920-p28-002,strunk-elements-of-style-1920,https://www.gutenberg.org/ebooks/37134,28,3,null,True,True,page và chapter khớp nguồn
+B,q17,2,B-strunk-elements-of-style-1920-p27-001,strunk-elements-of-style-1920,https://www.gutenberg.org/ebooks/37134,27,3,null,True,True,page và chapter khớp nguồn
+B,q17,3,B-strunk-elements-of-style-1920-p11-000,strunk-elements-of-style-1920,https://www.gutenberg.org/ebooks/37134,11,3,null,True,True,page và chapter khớp nguồn
+B,q18,1,B-strunk-elements-of-style-1920-p37-004,strunk-elements-of-style-1920,https://www.gutenberg.org/ebooks/37134,37,5,null,True,True,page và chapter khớp nguồn
+B,q18,2,B-strunk-elements-of-style-1920-p37-003,strunk-elements-of-style-1920,https://www.gutenberg.org/ebooks/37134,37,5,null,True,True,page và chapter khớp nguồn
+B,q18,3,B-strunk-elements-of-style-1920-p39-005,strunk-elements-of-style-1920,https://www.gutenberg.org/ebooks/37134,39,5,null,True,True,page và chapter khớp nguồn
+B,q19,1,B-strunk-elements-of-style-1920-p36-007,strunk-elements-of-style-1920,https://www.gutenberg.org/ebooks/37134,36,5,null,True,True,page và chapter khớp nguồn
+B,q19,2,B-strunk-elements-of-style-1920-p33-000,strunk-elements-of-style-1920,https://www.gutenberg.org/ebooks/37134,33,5,null,True,True,page và chapter khớp nguồn
+B,q19,3,B-strunk-elements-of-style-1920-p37-000,strunk-elements-of-style-1920,https://www.gutenberg.org/ebooks/37134,37,5,null,True,True,page và chapter khớp nguồn
+B,q20,1,B-strunk-elements-of-style-1920-p44-003,strunk-elements-of-style-1920,https://www.gutenberg.org/ebooks/37134,44,6,null,True,True,page và chapter khớp nguồn
+B,q20,2,B-strunk-elements-of-style-1920-p44-000,strunk-elements-of-style-1920,https://www.gutenberg.org/ebooks/37134,44,6,null,True,True,page và chapter khớp nguồn
+B,q20,3,B-strunk-elements-of-style-1920-p45-000,strunk-elements-of-style-1920,https://www.gutenberg.org/ebooks/37134,45,7,null,True,True,page và chapter khớp nguồn; nằm ngoài chương VI người dùng yêu cầu (không filter)
+B,q21,1,B-strunk-elements-of-style-1920-p23-000,strunk-elements-of-style-1920,https://www.gutenberg.org/ebooks/37134,23,3,null,True,True,page và chapter khớp nguồn
+B,q21,2,B-strunk-elements-of-style-1920-p31-002,strunk-elements-of-style-1920,https://www.gutenberg.org/ebooks/37134,31,4,null,True,True,page và chapter khớp nguồn
+B,q21,3,B-strunk-elements-of-style-1920-p27-000,strunk-elements-of-style-1920,https://www.gutenberg.org/ebooks/37134,27,3,null,True,True,page và chapter khớp nguồn
+C,q17,1,C-strunk-elements-of-style-1920-p28-002,strunk-elements-of-style-1920,https://www.gutenberg.org/ebooks/37134,28,3,null,True,True,page và chapter khớp nguồn
+C,q17,2,C-strunk-elements-of-style-1920-p27-001,strunk-elements-of-style-1920,https://www.gutenberg.org/ebooks/37134,27,3,null,True,True,page và chapter khớp nguồn
+C,q17,3,C-strunk-elements-of-style-1920-p11-000,strunk-elements-of-style-1920,https://www.gutenberg.org/ebooks/37134,11,3,null,True,True,page và chapter khớp nguồn
+C,q18,1,C-strunk-elements-of-style-1920-p37-004,strunk-elements-of-style-1920,https://www.gutenberg.org/ebooks/37134,37,5,null,True,True,page và chapter khớp nguồn
+C,q18,2,C-strunk-elements-of-style-1920-p37-003,strunk-elements-of-style-1920,https://www.gutenberg.org/ebooks/37134,37,5,null,True,True,page và chapter khớp nguồn
+C,q18,3,C-strunk-elements-of-style-1920-p39-005,strunk-elements-of-style-1920,https://www.gutenberg.org/ebooks/37134,39,5,null,True,True,page và chapter khớp nguồn
+C,q19,1,C-strunk-elements-of-style-1920-p36-007,strunk-elements-of-style-1920,https://www.gutenberg.org/ebooks/37134,36,5,null,True,True,page và chapter khớp nguồn
+C,q19,2,C-strunk-elements-of-style-1920-p33-000,strunk-elements-of-style-1920,https://www.gutenberg.org/ebooks/37134,33,5,null,True,True,page và chapter khớp nguồn
+C,q19,3,C-strunk-elements-of-style-1920-p37-000,strunk-elements-of-style-1920,https://www.gutenberg.org/ebooks/37134,37,5,null,True,True,page và chapter khớp nguồn
+C,q20,1,C-strunk-elements-of-style-1920-p44-003,strunk-elements-of-style-1920,https://www.gutenberg.org/ebooks/37134,44,6,"{""chapter"": 6}",True,True,page và chapter khớp nguồn
+C,q20,2,C-strunk-elements-of-style-1920-p44-000,strunk-elements-of-style-1920,https://www.gutenberg.org/ebooks/37134,44,6,"{""chapter"": 6}",True,True,page và chapter khớp nguồn
+C,q20,3,C-strunk-elements-of-style-1920-p44-001,strunk-elements-of-style-1920,https://www.gutenberg.org/ebooks/37134,44,6,"{""chapter"": 6}",True,True,page và chapter khớp nguồn
+C,q21,1,C-strunk-elements-of-style-1920-p23-000,strunk-elements-of-style-1920,https://www.gutenberg.org/ebooks/37134,23,3,null,True,True,page và chapter khớp nguồn
+C,q21,2,C-strunk-elements-of-style-1920-p31-002,strunk-elements-of-style-1920,https://www.gutenberg.org/ebooks/37134,31,4,null,True,True,page và chapter khớp nguồn
+C,q21,3,C-strunk-elements-of-style-1920-p27-000,strunk-elements-of-style-1920,https://www.gutenberg.org/ebooks/37134,27,3,null,True,True,page và chapter khớp nguồn

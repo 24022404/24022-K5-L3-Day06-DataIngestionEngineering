@@ -1,0 +1,529 @@
+﻿strategy,position,page,chunk_id,chunk_text,score_0_2,reason
+A,pos01,1,A-strunk-elements-of-style-1920-p01-001,", in the belief that these four rules provide for
+all the internal punctuation that is required by nineteen sentences out
+of twenty. Similarly, it gives in Chapter III only those principles of
+the paragraph and the sentence which are of the widest application. The
+book thus covers only a small portion of the field of English style. The
+experience of its writer has been that once past the essentials,
+students profit most by individual instruction based on the problems of
+their own work, and that ",1,"Bắt đầu giữa câu (', in the belief...') và cắt ở 'and that'; hiểu ý chính nhưng thiếu đầu/cuối câu"
+A,pos02,2,A-strunk-elements-of-style-1920-p02-001,"teousness' sake. But such forms as Achilles' heel,
+Moses' laws, Isis' temple are commonly replaced by
+
+  the heel of Achilles
+
+  the laws of Moses
+
+  the temple of Isis
+
+The pronominal possessives hers, its, theirs, yours, and
+oneself have no apostrophe.
+
+2. In a series of three or more terms with a single conjunction, use a
+comma after each term except the last.
+
+Thus write,
+
+  red, white, and blue
+
+  gold, silver, or copper
+
+  He opened the letter, read it, and made a note of its contents.
+
+Th",1,"Bắt đầu giữa từ 'teousness' sake', trộn cuối Rule 1 với đầu Rule 2, cắt ở 'Th'"
+A,pos03,3,A-strunk-elements-of-style-1920-p03-001,"t the end of the sentence, between comma and period) are the
+following:
+
+(1) the year, when forming part of a date, and the day of the month,
+when following the day of the week:
+
+  February to July, 1916.
+
+  April 6, 1917.
+
+  Monday, November 11, 1918.
+
+(2) the abbreviations etc. and jr.
+
+(3) non-restrictive relative clauses, that is, those which do not serve
+to identify or define the antecedent noun, and similar clauses
+introduced by conjunctions indicating time or place.
+
+  The audience, which",1,"Bắt đầu 't the end of the sentence', danh sách (1)-(3) hiểu được nhưng thiếu câu dẫn của Rule 3"
+A,pos04,4,A-strunk-elements-of-style-1920-p04-001,"y will come when you will admit your mistake.
+
+Nether Stowey is completely identified by its name; the statement about
+Coleridge is therefore supplementary and parenthetic. The day spoken
+of is identified only by the dependent clause, which is therefore
+restrictive.
+
+Similar in principle to the enclosing of parenthetic expressions between
+commas is the setting off by commas of phrases or dependent clauses
+preceding or following the main clause of a sentence.
+
+  Partly by hard fighting, partly by",1,"Bắt đầu 'y will come...', cắt ở 'partly by'; phần giải thích restrictive hiểu được một phần"
+A,pos05,5,A-strunk-elements-of-style-1920-p05-001,"nces might be rewritten:
+
+  As the early records of the city have disappeared, the story of its
+  first years can no longer be reconstructed.
+
+  Although the situation is perilous, there is still one chance of
+  escape.
+
+Or the subordinate clauses might be replaced by phrases:
+
+  Owing to the disappearance of the early records of the city, the story
+  of its first years can no longer be reconstructed.
+
+  In this perilous situation, there is still one chance of escape.
+
+But a writer may err by ma",1,"Bắt đầu 'nces might be rewritten', thiếu câu gốc cần viết lại; cắt ở 'by ma'"
+A,pos06,6,A-strunk-elements-of-style-1920-p06-001,"le correction, usually serviceable,
+is to omit the word so and begin the first clause with as or
+since:
+
+  I had never been in the place before; so I had difficulty in finding
+  my way about.
+
+    As I had never been in the place before, I had difficulty in finding
+    my way about.
+
+If a dependent clause, or an introductory phrase requiring to be set off
+by a comma, precedes the second independent clause, no comma is needed
+after the conjunction.
+
+  The situation is perilous, but if we are prep",1,"Bắt đầu 'le correction', không rõ đang sửa lỗi gì (cách dùng 'so') nếu không có phần trước"
+A,pos07,7,A-strunk-elements-of-style-1920-p07-001,"rk is a comma (Rule 4).
+
+  Stevenson's romances are entertaining, for they are full of exciting
+  adventures.
+
+  It is nearly half past five, and we cannot reach town before dark.
+
+A comparison of the three forms given above will show clearly the
+advantage of the first. It is, at least in the examples given, better
+than the second form, because it suggests the close relationship between
+the two statements in a way that the second does not attempt, and better
+than the third, because briefer and t",0,'A comparison of the three forms given above' nhưng hai dạng đầu nằm ở chunk trước; cắt ở 'briefer and t' nên không hiểu được kết luận
+A,pos08,8,A-strunk-elements-of-style-1920-p08-001,"words, do not use periods for commas.
+
+  I met them on a Cunard liner several years ago. Coming home from
+  Liverpool to New York.
+
+  He was an interesting talker. A man who had traveled all over the
+  world and lived in half a dozen countries.
+
+In both these examples, the first period should be replaced by a comma,
+and the following word begun with a small letter.
+
+It is permissible to make an emphatic word or expression serve the
+purpose of a sentence and to punctuate it accordingly:
+
+  Again ",1,"Thiếu tiêu đề Rule 6, bắt đầu 'words, do not use periods'; ví dụ vẫn hiểu được"
+A,pos09,9,A-strunk-elements-of-style-1920-p09-001,", any one of these is best
+written in a single paragraph. After the paragraph has been written,
+examine it to see whether subdivision will not improve it.
+
+Ordinarily, however, a subject requires subdivision into topics, each of
+which should be made the subject of a paragraph. The object of treating
+each topic in a paragraph by itself is, of course, to aid the reader.
+The beginning of each paragraph is a signal to him that a new step in
+the development of the subject has been reached.
+
+The exten",1,"Bắt đầu giữa câu ', any one of these', cắt ở 'The exten'"
+A,pos10,10,A-strunk-elements-of-style-1920-p10-001,"re made prominent, or would
+indicate what points in the narrative are chiefly emphasized.
+
+A novel might be discussed under the heads:
+
+  A. Setting.
+  B. Plot.
+  C. Characters.
+  D. Purpose.
+
+An historical event might be discussed under the heads:
+
+  A. What led up to the event.
+  B. Account of the event.
+  C. What the event led up to.
+
+In treating either of these last two subjects, the writer would probably
+find it necessary to subdivide one or more of the topics here given.
+
+As a rule, single",1,"Bắt đầu giữa câu, danh sách đề mục rõ nhưng cắt ở 'As a rule, single'"
+B,pos01,1,B-strunk-elements-of-style-1920-p01-001,"This book aims to give in brief space the principal requirements of
+plain English style. It aims to lighten the task of instructor and
+student by concentrating attention (in Chapters II and III) on a few
+essentials, the rules of usage and principles of composition most
+commonly violated. In accordance with this plan it lays down three rules
+for the use of the comma, instead of a score or more, and one for the
+use of the semicolon, in the belief that these four rules provide for
+all the internal punctuation that is required by nineteen sentences out
+of twenty. Similarly, it gives in Chapter III only those principles of
+the paragraph and the sentence which are of the widest application. The
+book thus covers only a small portion of the field of English style. The
+experience of its writer has been that once past the essentials,
+students profit most by individual instruction based on the problems of
+their own work, and that each instructor has his own body of theory,
+which he may prefer to that offered by any textbook.",2,"Trọn đoạn mở đầu, tự hiểu được"
+B,pos02,2,B-strunk-elements-of-style-1920-p02-001,"1. Form the possessive singular of nouns by adding 's.
+
+Follow this rule whatever the final consonant. Thus write,
+
+  Charles's friend
+
+  Burns's poems
+
+  the witch's malice
+
+This is the usage of the United States Government Printing Office and of
+the Oxford University Press.
+
+Exceptions are the possessive of ancient proper names in -es and
+-is, the possessive Jesus', and such forms as for conscience'
+sake, for righteousness' sake. But such forms as Achilles' heel,
+Moses' laws, Isis' temple are commonly replaced by
+
+  the heel of Achilles
+
+  the laws of Moses
+
+  the temple of Isis
+
+The pronominal possessives hers, its, theirs, yours, and
+oneself have no apostrophe.",2,"Trọn Rule 1: tiêu đề, ví dụ, ngoại lệ"
+B,pos03,3,B-strunk-elements-of-style-1920-p03-000,"  Marjorie's husband, Colonel Nelson paid us a visit yesterday,
+
+or
+
+  My brother you will be pleased to hear, is now in perfect health,
+
+is indefensible.
+
+If a parenthetic expression is preceded by a conjunction, place the
+first comma before the conjunction, not after it.
+
+  He saw us coming, and unaware that we had learned of his treachery,
+  greeted us with a smile.
+
+Always to be regarded as parenthetic and to be enclosed between commas
+(or, at the end of the sentence, between comma and period) are the
+following:
+
+(1) the year, when forming part of a date, and the day of the month,
+when following the day of the week:
+
+  February to July, 1916.
+
+  April 6, 1917.
+
+  Monday, November 11, 1918.
+
+(2) the abbreviations etc. and jr.",1,Bắt đầu bằng ví dụ sai '...is indefensible' nhưng câu nêu lỗi (chỉ một dấu phẩy) nằm ở trang trước
+B,pos04,4,B-strunk-elements-of-style-1920-p04-000,"  The candidate who best meets these requirements will obtain the place.
+
+Here the clause introduced by who does serve to tell which of several
+possible candidates is meant; the sentence cannot be split up into two
+independent statements.
+
+The difference in punctuation in the two sentences following is based on
+the same principle:
+
+  Nether Stowey, where Coleridge wrote The Rime of the Ancient
+  Mariner, is a few miles from Bridgewater.
+
+  The day will come when you will admit your mistake.
+
+Nether Stowey is completely identified by its name; the statement about
+Coleridge is therefore supplementary and parenthetic. The day spoken
+of is identified only by the dependent clause, which is therefore
+restrictive.",1,Đoạn restrictive/non-restrictive trọn câu nhưng thiếu ví dụ 'The audience...' ở trang trước để so sánh
+B,pos05,5,B-strunk-elements-of-style-1920-p05-000,"Sentences of this type, isolated from their context, may seem to be in
+need of rewriting. As they make complete sense when the comma is
+reached, the second clause has the appearance of an afterthought.
+Further, and is the least specific of connectives. Used between
+independent clauses, it indicates only that a relation exists between
+them without defining that relation. In the example above, the relation
+is that of cause and result. The two sentences might be rewritten:
+
+  As the early records of the city have disappeared, the story of its
+  first years can no longer be reconstructed.
+
+  Although the situation is perilous, there is still one chance of
+  escape.
+
+Or the subordinate clauses might be replaced by phrases:",1,'Sentences of this type' trỏ tới ví dụ ở trang trước
+B,pos06,6,B-strunk-elements-of-style-1920-p06-000,"If the second member is introduced by an adverb, a semicolon, not a
+comma, is required (see Rule 5). The connectives so and yet may be
+used either as adverbs or as conjunctions, accordingly as the second
+clause is felt to be co-ordinate or subordinate; consequently either
+mark of punctuation may be justified. But these uses of so (equivalent
+to accordingly or to so that) are somewhat colloquial and should, as
+a rule, be avoided in writing. A simple correction, usually serviceable,
+is to omit the word so and begin the first clause with as or
+since:
+
+  I had never been in the place before; so I had difficulty in finding
+  my way about.
+
+    As I had never been in the place before, I had difficulty in finding
+    my way about.",2,"Trọn ý về dấu chấm phẩy với trạng từ và cách sửa 'so', có ví dụ"
+B,pos07,7,B-strunk-elements-of-style-1920-p07-000,"  Stevenson's romances are entertaining; they are full of exciting
+  adventures.
+
+  It is nearly half past five; we cannot reach town before dark.
+
+It is of course equally correct to write the above as two sentences
+each, replacing the semicolons by periods.
+
+  Stevenson's romances are entertaining. They are full of exciting
+  adventures.
+
+  It is nearly half past five. We cannot reach town before dark.
+
+If a conjunction is inserted the proper mark is a comma (Rule 4).
+
+  Stevenson's romances are entertaining, for they are full of exciting
+  adventures.
+
+  It is nearly half past five, and we cannot reach town before dark.",1,Ví dụ dấu chấm phẩy trọn câu nhưng thiếu câu phát biểu Rule 5 ở trang trước
+B,pos08,8,B-strunk-elements-of-style-1920-p08-001,"6. Do not break sentences in two.
+
+In other words, do not use periods for commas.
+
+  I met them on a Cunard liner several years ago. Coming home from
+  Liverpool to New York.
+
+  He was an interesting talker. A man who had traveled all over the
+  world and lived in half a dozen countries.
+
+In both these examples, the first period should be replaced by a comma,
+and the following word begun with a small letter.
+
+It is permissible to make an emphatic word or expression serve the
+purpose of a sentence and to punctuate it accordingly:
+
+  Again and again he called out. No reply.
+
+The writer must, however, be certain that the emphasis is warranted, and
+that he will not be suspected of a mere blunder in syntax or in
+punctuation.",2,"Trọn Rule 6: tiêu đề, giải thích, ngoại lệ"
+B,pos09,9,B-strunk-elements-of-style-1920-p09-001,"8. Make the paragraph the unit of composition: one paragraph to each
+topic.
+
+If the subject on which you are writing is of slight extent, or if you
+intend to treat it very briefly, there may be no need of subdividing it
+into topics. Thus a brief description, a brief summary of a literary
+work, a brief account of a single incident, a narrative merely outlining
+an action, the setting forth of a single idea, any one of these is best
+written in a single paragraph. After the paragraph has been written,
+examine it to see whether subdivision will not improve it.",2,"Tiêu đề Rule 8 + đoạn đầu, tự hiểu được"
+B,pos10,10,B-strunk-elements-of-style-1920-p10-000,"The contents of paragraphs C and D would vary with the poem. Usually,
+paragraph C would indicate the actual or imagined circumstances of the
+poem (the situation), if these call for explanation, and would then
+state the subject and outline its development. If the poem is a
+narrative in the third person throughout, paragraph C need contain no
+more than a concise summary of the action. Paragraph D would indicate
+the leading ideas and show how they are made prominent, or would
+indicate what points in the narrative are chiefly emphasized.
+
+A novel might be discussed under the heads:
+
+  A. Setting.
+  B. Plot.
+  C. Characters.
+  D. Purpose.
+
+An historical event might be discussed under the heads:
+
+  A. What led up to the event.
+  B. Account of the event.
+  C. What the event led up to.",1,'paragraphs C and D' trỏ tới danh sách A-G ở trang trước
+C,pos01,1,C-strunk-elements-of-style-1920-p01-001,"This book aims to give in brief space the principal requirements of
+plain English style. It aims to lighten the task of instructor and
+student by concentrating attention (in Chapters II and III) on a few
+essentials, the rules of usage and principles of composition most
+commonly violated. In accordance with this plan it lays down three rules
+for the use of the comma, instead of a score or more, and one for the
+use of the semicolon, in the belief that these four rules provide for
+all the internal punctuation that is required by nineteen sentences out
+of twenty. Similarly, it gives in Chapter III only those principles of
+the paragraph and the sentence which are of the widest application. The
+book thus covers only a small portion of the field of English style. The
+experience of its writer has been that once past the essentials,
+students profit most by individual instruction based on the problems of
+their own work, and that each instructor has his own body of theory,
+which he may prefer to that offered by any textbook.",2,"Trọn đoạn mở đầu, tự hiểu được (chunk giống hệt B)"
+C,pos02,2,C-strunk-elements-of-style-1920-p02-001,"1. Form the possessive singular of nouns by adding 's.
+
+Follow this rule whatever the final consonant. Thus write,
+
+  Charles's friend
+
+  Burns's poems
+
+  the witch's malice
+
+This is the usage of the United States Government Printing Office and of
+the Oxford University Press.
+
+Exceptions are the possessive of ancient proper names in -es and
+-is, the possessive Jesus', and such forms as for conscience'
+sake, for righteousness' sake. But such forms as Achilles' heel,
+Moses' laws, Isis' temple are commonly replaced by
+
+  the heel of Achilles
+
+  the laws of Moses
+
+  the temple of Isis
+
+The pronominal possessives hers, its, theirs, yours, and
+oneself have no apostrophe.",2,"Trọn Rule 1: tiêu đề, ví dụ, ngoại lệ (chunk giống hệt B)"
+C,pos03,3,C-strunk-elements-of-style-1920-p03-000,"  Marjorie's husband, Colonel Nelson paid us a visit yesterday,
+
+or
+
+  My brother you will be pleased to hear, is now in perfect health,
+
+is indefensible.
+
+If a parenthetic expression is preceded by a conjunction, place the
+first comma before the conjunction, not after it.
+
+  He saw us coming, and unaware that we had learned of his treachery,
+  greeted us with a smile.
+
+Always to be regarded as parenthetic and to be enclosed between commas
+(or, at the end of the sentence, between comma and period) are the
+following:
+
+(1) the year, when forming part of a date, and the day of the month,
+when following the day of the week:
+
+  February to July, 1916.
+
+  April 6, 1917.
+
+  Monday, November 11, 1918.
+
+(2) the abbreviations etc. and jr.",1,Bắt đầu bằng ví dụ sai '...is indefensible' nhưng câu nêu lỗi (chỉ một dấu phẩy) nằm ở trang trước (chunk giống hệt B)
+C,pos04,4,C-strunk-elements-of-style-1920-p04-000,"  The candidate who best meets these requirements will obtain the place.
+
+Here the clause introduced by who does serve to tell which of several
+possible candidates is meant; the sentence cannot be split up into two
+independent statements.
+
+The difference in punctuation in the two sentences following is based on
+the same principle:
+
+  Nether Stowey, where Coleridge wrote The Rime of the Ancient
+  Mariner, is a few miles from Bridgewater.
+
+  The day will come when you will admit your mistake.
+
+Nether Stowey is completely identified by its name; the statement about
+Coleridge is therefore supplementary and parenthetic. The day spoken
+of is identified only by the dependent clause, which is therefore
+restrictive.",1,Đoạn restrictive/non-restrictive trọn câu nhưng thiếu ví dụ 'The audience...' ở trang trước để so sánh (chunk giống hệt B)
+C,pos05,5,C-strunk-elements-of-style-1920-p05-000,"Sentences of this type, isolated from their context, may seem to be in
+need of rewriting. As they make complete sense when the comma is
+reached, the second clause has the appearance of an afterthought.
+Further, and is the least specific of connectives. Used between
+independent clauses, it indicates only that a relation exists between
+them without defining that relation. In the example above, the relation
+is that of cause and result. The two sentences might be rewritten:
+
+  As the early records of the city have disappeared, the story of its
+  first years can no longer be reconstructed.
+
+  Although the situation is perilous, there is still one chance of
+  escape.
+
+Or the subordinate clauses might be replaced by phrases:",1,'Sentences of this type' trỏ tới ví dụ ở trang trước (chunk giống hệt B)
+C,pos06,6,C-strunk-elements-of-style-1920-p06-000,"If the second member is introduced by an adverb, a semicolon, not a
+comma, is required (see Rule 5). The connectives so and yet may be
+used either as adverbs or as conjunctions, accordingly as the second
+clause is felt to be co-ordinate or subordinate; consequently either
+mark of punctuation may be justified. But these uses of so (equivalent
+to accordingly or to so that) are somewhat colloquial and should, as
+a rule, be avoided in writing. A simple correction, usually serviceable,
+is to omit the word so and begin the first clause with as or
+since:
+
+  I had never been in the place before; so I had difficulty in finding
+  my way about.
+
+    As I had never been in the place before, I had difficulty in finding
+    my way about.",2,"Trọn ý về dấu chấm phẩy với trạng từ và cách sửa 'so', có ví dụ (chunk giống hệt B)"
+C,pos07,7,C-strunk-elements-of-style-1920-p07-000,"  Stevenson's romances are entertaining; they are full of exciting
+  adventures.
+
+  It is nearly half past five; we cannot reach town before dark.
+
+It is of course equally correct to write the above as two sentences
+each, replacing the semicolons by periods.
+
+  Stevenson's romances are entertaining. They are full of exciting
+  adventures.
+
+  It is nearly half past five. We cannot reach town before dark.
+
+If a conjunction is inserted the proper mark is a comma (Rule 4).
+
+  Stevenson's romances are entertaining, for they are full of exciting
+  adventures.
+
+  It is nearly half past five, and we cannot reach town before dark.",1,Ví dụ dấu chấm phẩy trọn câu nhưng thiếu câu phát biểu Rule 5 ở trang trước (chunk giống hệt B)
+C,pos08,8,C-strunk-elements-of-style-1920-p08-001,"6. Do not break sentences in two.
+
+In other words, do not use periods for commas.
+
+  I met them on a Cunard liner several years ago. Coming home from
+  Liverpool to New York.
+
+  He was an interesting talker. A man who had traveled all over the
+  world and lived in half a dozen countries.
+
+In both these examples, the first period should be replaced by a comma,
+and the following word begun with a small letter.
+
+It is permissible to make an emphatic word or expression serve the
+purpose of a sentence and to punctuate it accordingly:
+
+  Again and again he called out. No reply.
+
+The writer must, however, be certain that the emphasis is warranted, and
+that he will not be suspected of a mere blunder in syntax or in
+punctuation.",2,"Trọn Rule 6: tiêu đề, giải thích, ngoại lệ (chunk giống hệt B)"
+C,pos09,9,C-strunk-elements-of-style-1920-p09-001,"8. Make the paragraph the unit of composition: one paragraph to each
+topic.
+
+If the subject on which you are writing is of slight extent, or if you
+intend to treat it very briefly, there may be no need of subdividing it
+into topics. Thus a brief description, a brief summary of a literary
+work, a brief account of a single incident, a narrative merely outlining
+an action, the setting forth of a single idea, any one of these is best
+written in a single paragraph. After the paragraph has been written,
+examine it to see whether subdivision will not improve it.",2,"Tiêu đề Rule 8 + đoạn đầu, tự hiểu được (chunk giống hệt B)"
+C,pos10,10,C-strunk-elements-of-style-1920-p10-000,"The contents of paragraphs C and D would vary with the poem. Usually,
+paragraph C would indicate the actual or imagined circumstances of the
+poem (the situation), if these call for explanation, and would then
+state the subject and outline its development. If the poem is a
+narrative in the third person throughout, paragraph C need contain no
+more than a concise summary of the action. Paragraph D would indicate
+the leading ideas and show how they are made prominent, or would
+indicate what points in the narrative are chiefly emphasized.
+
+A novel might be discussed under the heads:
+
+  A. Setting.
+  B. Plot.
+  C. Characters.
+  D. Purpose.
+
+An historical event might be discussed under the heads:
+
+  A. What led up to the event.
+  B. Account of the event.
+  C. What the event led up to.",1,'paragraphs C and D' trỏ tới danh sách A-G ở trang trước (chunk giống hệt B)

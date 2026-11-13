@@ -1,47 +1,50 @@
-# Day 06 · Data Ingestion Engineering
+# Day 06 · Data Ingestion Engineering — The Elements of Style
 
-**Lab cá nhân** · **4 giờ** · **Dữ liệu tự chọn**
+Retrieval benchmark of 3 data-preparation strategies on William Strunk Jr., *The Elements of Style* (1920), Project Gutenberg #37134 (public domain in the USA).
 
-Biến tài liệu thành kho tri thức có thể truy xuất cho AI agent, rồi đo xem cách chuẩn bị dữ liệu nào hiệu quả nhất.
+- Embedding: `sentence-transformers/all-MiniLM-L6-v2` (384 dims, local CPU, free)
+- Vector store: Chroma `PersistentClient` (folder `chroma_db/`), cosine, HNSW
+- No Docker, no API key, cost 0 USD
 
-| 📄 Dữ liệu | 🧩 Chiến lược | 🎯 Benchmark |
-|---|---|---|
-| Tối thiểu **30 trang nội dung** | Tối thiểu **3 cấu hình** | Tối thiểu **20 câu hỏi** |
+## Setup (Windows cmd)
 
-## Bắt đầu nhanh
+```
+python -m venv .venv
+.venv\Scripts\activate
+pip install -r requirements.txt
+curl -L -o data\raw\elements_of_style.txt https://www.gutenberg.org/ebooks/37134.txt.utf-8
+```
+(macOS/Linux: `source .venv/bin/activate`.) The first run downloads the embedding model (~90 MB) from Hugging Face.
 
-Dùng [starter PostgreSQL + pgvector](starter/README.md) để dựng database và hoàn thiện các hàm TODO, hoặc tự chọn vector store tương đương. Starter chỉ là khung: **bạn tự hiện thực pipeline và benchmark**.
+## Run
 
-## 1. Xây pipeline
+```
+python src/run.py
+```
 
-![Đọc tài liệu, chuẩn hóa, chia chunk, tạo vector, lưu và kiểm tra](assets/ingestion-pipeline.svg)
+This runs everything: ingest → verify benchmark → chunk A/B/C → embed + store in Chroma (loads twice to check no duplicates) → top-3 retrieval for every question → metrics → manual-audit sheets.
 
-Chọn tài liệu được phép sử dụng; giữ **ID tài liệu, nguồn, trang/vị trí** và metadata phù hợp. Dùng embedding model thật qua API hoặc chạy local; lưu và truy xuất bằng pgvector, Qdrant, Chroma hoặc một store tương đương.
+## Layout
 
-## 2. So sánh và đánh giá
-
-![Ba chiến lược được đánh giá trên cùng corpus và benchmark dev/test](assets/benchmark-workflow.svg)
-
-Dùng cùng dữ liệu, model và câu hỏi cho cả ba cấu hình. Tách **15 câu dev / 5 câu test** trước khi chạy; chọn cấu hình trên dev, rồi đánh giá test sau khi cố định. Mỗi câu hỏi cần có đoạn bằng chứng và trang nguồn; thiết kế bộ câu hỏi và đánh giá theo [BENCHMARK.md](BENCHMARK.md).
-
-Đánh giá theo năm khía cạnh: **độ chính xác truy xuất**, **tính mạch lạc của chunk**, **tính hữu dụng của metadata**, **chất lượng grounding** và **tác động của chiến lược dữ liệu**. Giải thích lựa chọn bằng kết quả, ví dụ lỗi và các đánh đổi.
-
-## 3. Chuẩn bị bài nộp
-
-1. Chạy pipeline và lưu cấu hình, kết quả top-3, trace cùng nhãn đánh giá thủ công.
-2. Điền [thông tin học viên](STUDENT.md), [nhật ký thí nghiệm](artifacts/experiment_log.csv) và bản sao [mẫu báo cáo cá nhân](report/individual/MSSV_HoTen.md).
-3. Kiểm tra mã nguồn, cách chạy, manifest dữ liệu và checklist trong [SUBMISSION.md](SUBMISSION.md).
-
-## Tài liệu hướng dẫn
-
-| Bạn cần tìm | Tài liệu |
+| Path | Content |
 |---|---|
-| Setup baseline PostgreSQL + pgvector | [starter/README.md](starter/README.md) |
-| Các bước làm và cách tính chỉ số | [GUIDE.md](GUIDE.md) |
-| Tiến độ trong 4 giờ | [CHECKPOINTS.md](CHECKPOINTS.md) |
-| Năm tiêu chí benchmark và bộ câu hỏi | [BENCHMARK.md](BENCHMARK.md) |
-| Tiêu chí chấm điểm | [RUBRIC.md](RUBRIC.md) |
-| Quy tắc sử dụng dữ liệu, AI và API | [RULES.md](RULES.md) |
-| Cách nộp bài | [SUBMISSION.md](SUBMISSION.md) |
+| `data/raw/elements_of_style.txt` | raw source (Gutenberg licence header kept) |
+| `data/manifest.json` | source, licence, page-counting rule, 47 units with chars |
+| `data/processed/pages.jsonl` | normalized page units (generated) |
+| `benchmark/questions.jsonl` | 21 questions (16 dev / 5 test), gold page + evidence |
+| `src/` | `ingest.py`, `chunking.py`, `store.py`, `evaluate.py`, `verify_benchmark.py`, `run.py`, `config.py` |
+| `artifacts/experiment_log.csv` | configs, hypotheses, results |
+| `results/metrics.csv` | Hit@1 / Evidence Hit@3 per strategy and split |
+| `results/traces/trace_{A,B,C}.jsonl` | full top-3 trace per question (text, score, metadata, hit flags) |
+| `results/run_info.json` | library versions, model, timings, chunk stats, reload check |
+| `results/logs/ingest_log.txt` | ingest log (removed parts, short/empty units) |
+| `results/audit/*.csv` | manual labels: coherence (10 positions × 3), grounding (5 test × 3), metadata check |
+| `report/individual/` | individual report |
 
-[data/format-example.json](data/format-example.json) chỉ minh họa định dạng, không phải corpus đủ điều kiện. Phần xử lý và benchmark do bạn tự hiện thực; không bắt buộc xây chatbot.
+## Strategies
+
+| | Chunking | Retrieval |
+|---|---|---|
+| A | fixed 500 chars, overlap 50, inside each page unit | no filter |
+| B | whole paragraphs merged up to 800 chars; new chunk at each rule heading / usage entry | no filter |
+| C | same chunks as B | `where chapter = <chapter named in the question>` only for filter questions |

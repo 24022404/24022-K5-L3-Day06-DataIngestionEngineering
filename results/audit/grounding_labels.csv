@@ -1,0 +1,462 @@
+﻿strategy,id,question,evidence_quote,auto_hit3,top1,top2,top3,score_0_2,reason
+A,q17,Where in a sentence should the words the writer wants to make most prominent usually go?,which the writer desires to make most prominent is usually the end,False,"[strunk-elements-of-style-1920-p24 ch3] 16. Keep related words together.
+
+The position of the words in a sentence is the principal means of
+showing their relationship. The writer must therefore, so far as
+possible, bring together the words, and groups of words, that are
+related in thought, and keep apart those which are not so related.
+
+The subject of a sentence and the principal verb should not, as a rule,
+be separated by a phrase or clause that can be transferred to the
+beginning.
+
+  Wordsworth, in the fifth book of The Excursion, g","[strunk-elements-of-style-1920-p11 ch3] 9. As a rule, begin each paragraph with a topic sentence, end it in
+conformity with the beginning.
+
+Again, the object is to aid the reader. The practice here recommended
+enables him to discover the purpose of each paragraph as he begins to
+read it, and to retain this purpose in mind as he ends it. For this
+reason, the most generally useful kind of paragraph, particularly in
+exposition and argument, is that in which
+
+(a) the topic sentence comes at or near the beginning;
+
+(b) the succeeding sente","[strunk-elements-of-style-1920-p11 ch3] t or near the beginning;
+
+(b) the succeeding sentences explain or establish or develop the
+statement made in the topic sentence; and
+
+(c) the final sentence either emphasizes the thought of the topic
+sentence or states some important consequence.
+
+Ending with a digression, or with an unimportant detail, is particularly
+to be avoided.
+
+If the paragraph forms part of a larger composition, its relation to
+what precedes, or its function as a part of the whole, may need to be
+expressed. This can some",0,"Top-3 là Rule 16 và Rule 9 (trang 24, 11), không có câu về vị trí cuối câu"
+A,q18,What is the difference between 'less' and 'fewer'?,"Less refers to quantity, fewer to number.",True,"[strunk-elements-of-style-1920-p37 ch5] like that kind of notoriety."" The same holds true
+of sort of.
+
+Less. Should not be misused for fewer.
+
+  He had less men than in the previous campaign
+
+    He had fewer men than in the previous campaign
+
+Less refers to quantity, fewer to number. ""His troubles are less
+than mine"" means ""His troubles are not so great as mine."" ""His troubles
+are fewer than mine"" means ""His troubles are not so numerous as mine.""
+It is, however, correct to say, ""The signers of the petition were less
+than a hundred,"" ","[strunk-elements-of-style-1920-p37 ch5] igners of the petition were less
+than a hundred,"" where the round number a hundred is something like a
+collective noun, and less is thought of as meaning a less quantity or
+amount.","[strunk-elements-of-style-1920-p34 ch5] d; it is best restricted to
+ingenuity displayed in small matters.
+
+Compare. To compare to is to point out or imply resemblances,
+between objects regarded as essentially of different order; to compare
+with is mainly to point out differences, between objects regarded as
+essentially of the same order. Thus life has been compared to a
+pilgrimage, to a drama, to a battle; Congress may be compared with the
+British Parliament. Paris has been compared to ancient Athens; it may be
+compared with modern Lo",2,"Top-1 chứa 'Less refers to quantity, fewer to number', trang 37"
+A,q19,What does 'however' mean when it comes first in its sentence?,"When however comes first, it means in whatever way or to whatever extent.",False,"[strunk-elements-of-style-1920-p36 ch5] e always wanted to visit Spain.
+
+Help. See under But.
+
+However. In the meaning nevertheless, not to come first in its
+sentence or clause.
+
+  The roads were almost impassable. However, we at last succeeded in
+  reaching camp.","[strunk-elements-of-style-1920-p33 ch5] But. Unnecessary after doubt and help.
+
+  I have no doubt but that
+
+    I have no doubt that
+
+  He could not help see but that
+
+    He could not help seeing that
+
+The too frequent use of but as a conjunction leads to the fault
+discussed under Rule 14. A loose sentence formed with but can always
+be converted into a periodic sentence formed with although, as
+illustrated under Rule 4.
+
+Particularly awkward is the following of one but by another, making a
+contrast to a contrast or a reservation to a","[strunk-elements-of-style-1920-p43 ch5] Use he with all the above words, unless the antecedent is or must be
+feminine.
+
+Very. Use this word sparingly. Where emphasis is necessary, use words
+strong in themselves.
+
+Viewpoint. Write point of view, but do not misuse this, as many do,
+for view or opinion.
+
+While. Avoid the indiscriminate use of this word for and, but, and
+although. Many writers use it frequently as a substitute for and or
+but, either from a mere desire to vary the connective, or from
+uncertainty which of the two connective",1,Top-1 chỉ có nửa đầu mục 'However' (nghĩa nevertheless không đứng đầu câu); câu trả lời nằm ở trang 37 không được lấy
+A,q20,"Looking only in Chapter VI (Spelling): should 'to-day', 'to-night' and 'to-morrow' be written with a hyphen?","Write to-day, to-night, to-morrow (but not together) with a hyphen.",True,"[strunk-elements-of-style-1920-p44 ch6] hepherd
+  siege
+  similar
+  simile
+  too
+  tragedy
+  tries
+  undoubtedly
+  until
+  villain
+
+Note that a single consonant (other than v) preceded by a stressed
+short vowel is doubled before -ed and -ing: planned, letting,
+beginning. (Coming is an exception.)
+
+Write to-day, to-night, to-morrow (but not together) with a
+hyphen.
+
+Write any one, every one, some one, some time (except in the
+sense of formerly) as two words.","[strunk-elements-of-style-1920-p44 ch6] VI. SPELLING
+
+The spelling of English words is not fixed and invariable, nor does it
+depend on any other authority than general agreement. At the present day
+there is practically unanimous agreement as to the spelling of most
+words. In the list below, for example, rime for rhyme is the only
+allowable variation; all the other forms are co-extensive with the
+English language. At any given moment, however, a relatively small
+number of words may be spelled in more than one way. Gradually, as a
+rule,","[strunk-elements-of-style-1920-p07 ch2]   Stevenson's romances are entertaining; they are full of exciting
+  adventures.
+
+  It is nearly half past five; we cannot reach town before dark.
+
+It is of course equally correct to write the above as two sentences
+each, replacing the semicolons by periods.
+
+  Stevenson's romances are entertaining. They are full of exciting
+  adventures.
+
+  It is nearly half past five. We cannot reach town before dark.
+
+If a conjunction is inserted the proper mark is a comma (Rule 4).
+
+  Stevenson's romances ar",2,"Top-1 chứa câu về to-day/to-night/to-morrow, trang 44 chương VI"
+A,q21,"If an article or preposition applies to every member of a series, where should it be placed?",must either be used only before the first term or else be repeated before each term,True,"[strunk-elements-of-style-1920-p31 ch4] on in a number of
+pages of any carefully printed book.
+
+Titles. For the titles of literary works, scholarly usage prefers
+italics with capitalized initials. The usage of editors and publishers
+varies, some using italics with capitalized initials, others using Roman
+with capitalized initials and with or without quotation marks. Use
+italics (indicated in manuscript by underscoring), except in writing for
+a periodical that follows a different practice. Omit initial A or
+The from titles when you pla","[strunk-elements-of-style-1920-p23 ch3] By this principle, an article or a preposition applying to all the
+members of a series must either be used only before the first term or
+else be repeated before each term.
+
+  The French, the Italians, Spanish, and Portuguese
+
+    The French, the Italians, the Spanish, and the Portuguese
+
+  In spring, summer, or in winter
+
+    In spring, summer, or winter (In spring, in summer, or in winter)
+
+Correlative expressions (both, and; not, but; not only, but also;
+either, or; first, second, third; and t","[strunk-elements-of-style-1920-p27 ch3] In notebooks, in newspapers, in handbooks of literature, summaries of
+one kind or another may be indispensable, and for children in primary
+schools it is a useful exercise to retell a story in their own words.
+But in the criticism or interpretation of literature the writer should
+be careful to avoid dropping into summary. He may find it necessary to
+devote one or two sentences to indicating the subject, or the opening
+situation, of the work he is discussing; he may cite numerous details to
+illus",2,"Top-2 chứa đủ quy tắc, trang 23; top-1 là mục Titles không liên quan"
+B,q17,Where in a sentence should the words the writer wants to make most prominent usually go?,which the writer desires to make most prominent is usually the end,True,"[strunk-elements-of-style-1920-p28 ch3] The principle that the proper place for what is to be made most
+prominent is the end applies equally to the words of a sentence, to the
+sentences of a paragraph, and to the paragraphs of a composition.","[strunk-elements-of-style-1920-p27 ch3] 18. Place the emphatic words of a sentence at the end.
+
+The proper place in the sentence for the word, or group of words, which
+the writer desires to make most prominent is usually the end.
+
+  Humanity has hardly advanced in fortitude since that time, though it
+  has advanced in many other ways.
+
+    Humanity, since that time, has advanced in many other ways, but it
+    has hardly advanced in fortitude.
+
+  This steel is principally used for making razors, because of its
+  hardness.
+
+    Because of its hardness, this steel is principally used in making
+    razors.
+
+The word or group of words entitled to this position of prominence is
+usually the logical predicate, that is, the new element in the
+sentence, as it is in the second example.","[strunk-elements-of-style-1920-p11 ch3] 9. As a rule, begin each paragraph with a topic sentence, end it in
+conformity with the beginning.
+
+Again, the object is to aid the reader. The practice here recommended
+enables him to discover the purpose of each paragraph as he begins to
+read it, and to retain this purpose in mind as he ends it. For this
+reason, the most generally useful kind of paragraph, particularly in
+exposition and argument, is that in which
+
+(a) the topic sentence comes at or near the beginning;
+
+(b) the succeeding sentences explain or establish or develop the
+statement made in the topic sentence; and
+
+(c) the final sentence either emphasizes the thought of the topic
+sentence or states some important consequence.
+
+Ending with a digression, or with an unimportant detail, is particularly
+to be avoided.",2,"Top-2 chứa câu đầy đủ của Rule 18, trang 27; top-1 cũng cùng ý (trang 28)"
+B,q18,What is the difference between 'less' and 'fewer'?,"Less refers to quantity, fewer to number.",True,"[strunk-elements-of-style-1920-p37 ch5] Less refers to quantity, fewer to number. ""His troubles are less
+than mine"" means ""His troubles are not so great as mine."" ""His troubles
+are fewer than mine"" means ""His troubles are not so numerous as mine.""
+It is, however, correct to say, ""The signers of the petition were less
+than a hundred,"" where the round number a hundred is something like a
+collective noun, and less is thought of as meaning a less quantity or
+amount.","[strunk-elements-of-style-1920-p37 ch5] Less. Should not be misused for fewer.
+
+  He had less men than in the previous campaign
+
+    He had fewer men than in the previous campaign","[strunk-elements-of-style-1920-p39 ch5]     There was little prospect of the Senate's accepting even this
+    compromise.",2,"Top-1 chứa định nghĩa và ví dụ less/fewer, trang 37"
+B,q19,What does 'however' mean when it comes first in its sentence?,"When however comes first, it means in whatever way or to whatever extent.",True,"[strunk-elements-of-style-1920-p36 ch5] However. In the meaning nevertheless, not to come first in its
+sentence or clause.
+
+  The roads were almost impassable. However, we at last succeeded in
+  reaching camp.","[strunk-elements-of-style-1920-p33 ch5] But. Unnecessary after doubt and help.
+
+  I have no doubt but that
+
+    I have no doubt that
+
+  He could not help see but that
+
+    He could not help seeing that
+
+The too frequent use of but as a conjunction leads to the fault
+discussed under Rule 14. A loose sentence formed with but can always
+be converted into a periodic sentence formed with although, as
+illustrated under Rule 4.
+
+Particularly awkward is the following of one but by another, making a
+contrast to a contrast or a reservation to a reservation. This is easily
+corrected by re-arrangement.
+
+  America had vast resources, but she seemed almost wholly unprepared
+  for war. But within a year she had created an army of four million
+  men.","[strunk-elements-of-style-1920-p37 ch5]     The roads were almost impassable. At last, however, we succeeded in
+    reaching camp.
+
+When however comes first, it means in whatever way or to whatever
+extent.
+
+  However you advise him, he will probably do as he thinks best.
+
+  However discouraging the prospect, he never lost heart.",2,Top-3 chứa 'When however comes first...' kèm ví dụ; top-1 cho ngữ cảnh đối lập
+B,q20,"Looking only in Chapter VI (Spelling): should 'to-day', 'to-night' and 'to-morrow' be written with a hyphen?","Write to-day, to-night, to-morrow (but not together) with a hyphen.",True,"[strunk-elements-of-style-1920-p44 ch6] Note that a single consonant (other than v) preceded by a stressed
+short vowel is doubled before -ed and -ing: planned, letting,
+beginning. (Coming is an exception.)
+
+Write to-day, to-night, to-morrow (but not together) with a
+hyphen.
+
+Write any one, every one, some one, some time (except in the
+sense of formerly) as two words.","[strunk-elements-of-style-1920-p44 ch6] VI. SPELLING
+
+The spelling of English words is not fixed and invariable, nor does it
+depend on any other authority than general agreement. At the present day
+there is practically unanimous agreement as to the spelling of most
+words. In the list below, for example, rime for rhyme is the only
+allowable variation; all the other forms are co-extensive with the
+English language. At any given moment, however, a relatively small
+number of words may be spelled in more than one way. Gradually, as a
+rule, one of these forms comes to be generally preferred, and the less
+customary form comes to look obsolete and is discarded. From time to
+time new forms, mostly simplifications, are introduced by innovators,
+and either win their place or die of neglect.","[strunk-elements-of-style-1920-p45 ch7] VII. EXERCISES ON CHAPTERS II AND III
+
+I. Punctuate:",2,"Top-1 chứa câu trả lời, trang 44 chương VI"
+B,q21,"If an article or preposition applies to every member of a series, where should it be placed?",must either be used only before the first term or else be repeated before each term,True,"[strunk-elements-of-style-1920-p23 ch3] By this principle, an article or a preposition applying to all the
+members of a series must either be used only before the first term or
+else be repeated before each term.
+
+  The French, the Italians, Spanish, and Portuguese
+
+    The French, the Italians, the Spanish, and the Portuguese
+
+  In spring, summer, or in winter
+
+    In spring, summer, or winter (In spring, in summer, or in winter)","[strunk-elements-of-style-1920-p31 ch4] Titles. For the titles of literary works, scholarly usage prefers
+italics with capitalized initials. The usage of editors and publishers
+varies, some using italics with capitalized initials, others using Roman
+with capitalized initials and with or without quotation marks. Use
+italics (indicated in manuscript by underscoring), except in writing for
+a periodical that follows a different practice. Omit initial A or
+The from titles when you place the possessive before them.
+
+  The Iliad; the Odyssey; As You Like It; To a Skylark; The
+  Newcomes; A Tale of Two Cities; Dickens's Tale of Two Cities.","[strunk-elements-of-style-1920-p27 ch3] In notebooks, in newspapers, in handbooks of literature, summaries of
+one kind or another may be indispensable, and for children in primary
+schools it is a useful exercise to retell a story in their own words.
+But in the criticism or interpretation of literature the writer should
+be careful to avoid dropping into summary. He may find it necessary to
+devote one or two sentences to indicating the subject, or the opening
+situation, of the work he is discussing; he may cite numerous details to
+illustrate its qualities. But he should aim to write an orderly
+discussion supported by evidence, not a summary with occasional comment.
+Similarly, if the scope of his discussion includes a number of works, he
+will as a rule do better not to take them up singly in chronological
+order, but to aim from the beginning at establishing general
+conclusions.",2,"Top-1 chứa đủ quy tắc kèm ví dụ, trang 23"
+C,q17,Where in a sentence should the words the writer wants to make most prominent usually go?,which the writer desires to make most prominent is usually the end,True,"[strunk-elements-of-style-1920-p28 ch3] The principle that the proper place for what is to be made most
+prominent is the end applies equally to the words of a sentence, to the
+sentences of a paragraph, and to the paragraphs of a composition.","[strunk-elements-of-style-1920-p27 ch3] 18. Place the emphatic words of a sentence at the end.
+
+The proper place in the sentence for the word, or group of words, which
+the writer desires to make most prominent is usually the end.
+
+  Humanity has hardly advanced in fortitude since that time, though it
+  has advanced in many other ways.
+
+    Humanity, since that time, has advanced in many other ways, but it
+    has hardly advanced in fortitude.
+
+  This steel is principally used for making razors, because of its
+  hardness.
+
+    Because of its hardness, this steel is principally used in making
+    razors.
+
+The word or group of words entitled to this position of prominence is
+usually the logical predicate, that is, the new element in the
+sentence, as it is in the second example.","[strunk-elements-of-style-1920-p11 ch3] 9. As a rule, begin each paragraph with a topic sentence, end it in
+conformity with the beginning.
+
+Again, the object is to aid the reader. The practice here recommended
+enables him to discover the purpose of each paragraph as he begins to
+read it, and to retain this purpose in mind as he ends it. For this
+reason, the most generally useful kind of paragraph, particularly in
+exposition and argument, is that in which
+
+(a) the topic sentence comes at or near the beginning;
+
+(b) the succeeding sentences explain or establish or develop the
+statement made in the topic sentence; and
+
+(c) the final sentence either emphasizes the thought of the topic
+sentence or states some important consequence.
+
+Ending with a digression, or with an unimportant detail, is particularly
+to be avoided.",2,"Top-2 chứa câu đầy đủ của Rule 18, trang 27; top-1 cũng cùng ý (trang 28)"
+C,q18,What is the difference between 'less' and 'fewer'?,"Less refers to quantity, fewer to number.",True,"[strunk-elements-of-style-1920-p37 ch5] Less refers to quantity, fewer to number. ""His troubles are less
+than mine"" means ""His troubles are not so great as mine."" ""His troubles
+are fewer than mine"" means ""His troubles are not so numerous as mine.""
+It is, however, correct to say, ""The signers of the petition were less
+than a hundred,"" where the round number a hundred is something like a
+collective noun, and less is thought of as meaning a less quantity or
+amount.","[strunk-elements-of-style-1920-p37 ch5] Less. Should not be misused for fewer.
+
+  He had less men than in the previous campaign
+
+    He had fewer men than in the previous campaign","[strunk-elements-of-style-1920-p39 ch5]     There was little prospect of the Senate's accepting even this
+    compromise.",2,"Top-1 chứa định nghĩa và ví dụ less/fewer, trang 37"
+C,q19,What does 'however' mean when it comes first in its sentence?,"When however comes first, it means in whatever way or to whatever extent.",True,"[strunk-elements-of-style-1920-p36 ch5] However. In the meaning nevertheless, not to come first in its
+sentence or clause.
+
+  The roads were almost impassable. However, we at last succeeded in
+  reaching camp.","[strunk-elements-of-style-1920-p33 ch5] But. Unnecessary after doubt and help.
+
+  I have no doubt but that
+
+    I have no doubt that
+
+  He could not help see but that
+
+    He could not help seeing that
+
+The too frequent use of but as a conjunction leads to the fault
+discussed under Rule 14. A loose sentence formed with but can always
+be converted into a periodic sentence formed with although, as
+illustrated under Rule 4.
+
+Particularly awkward is the following of one but by another, making a
+contrast to a contrast or a reservation to a reservation. This is easily
+corrected by re-arrangement.
+
+  America had vast resources, but she seemed almost wholly unprepared
+  for war. But within a year she had created an army of four million
+  men.","[strunk-elements-of-style-1920-p37 ch5]     The roads were almost impassable. At last, however, we succeeded in
+    reaching camp.
+
+When however comes first, it means in whatever way or to whatever
+extent.
+
+  However you advise him, he will probably do as he thinks best.
+
+  However discouraging the prospect, he never lost heart.",2,Top-3 chứa 'When however comes first...' kèm ví dụ; top-1 cho ngữ cảnh đối lập
+C,q20,"Looking only in Chapter VI (Spelling): should 'to-day', 'to-night' and 'to-morrow' be written with a hyphen?","Write to-day, to-night, to-morrow (but not together) with a hyphen.",True,"[strunk-elements-of-style-1920-p44 ch6] Note that a single consonant (other than v) preceded by a stressed
+short vowel is doubled before -ed and -ing: planned, letting,
+beginning. (Coming is an exception.)
+
+Write to-day, to-night, to-morrow (but not together) with a
+hyphen.
+
+Write any one, every one, some one, some time (except in the
+sense of formerly) as two words.","[strunk-elements-of-style-1920-p44 ch6] VI. SPELLING
+
+The spelling of English words is not fixed and invariable, nor does it
+depend on any other authority than general agreement. At the present day
+there is practically unanimous agreement as to the spelling of most
+words. In the list below, for example, rime for rhyme is the only
+allowable variation; all the other forms are co-extensive with the
+English language. At any given moment, however, a relatively small
+number of words may be spelled in more than one way. Gradually, as a
+rule, one of these forms comes to be generally preferred, and the less
+customary form comes to look obsolete and is discarded. From time to
+time new forms, mostly simplifications, are introduced by innovators,
+and either win their place or die of neglect.","[strunk-elements-of-style-1920-p44 ch6] The practical objection to unaccepted and over-simplified spellings is
+the disfavor with which they are received by the reader. They distract
+his attention and exhaust his patience. He reads the form though
+automatically, without thought of its needless complexity; he reads the
+abbreviation tho and mentally supplies the missing letters, at the
+cost of a fraction of his attention. The writer has defeated his own
+purpose.
+
+WORDS OFTEN MISSPELLED",2,"Top-1 chứa câu trả lời, trang 44 chương VI; filter chương 6 giữ cả top-3 trong chương VI"
+C,q21,"If an article or preposition applies to every member of a series, where should it be placed?",must either be used only before the first term or else be repeated before each term,True,"[strunk-elements-of-style-1920-p23 ch3] By this principle, an article or a preposition applying to all the
+members of a series must either be used only before the first term or
+else be repeated before each term.
+
+  The French, the Italians, Spanish, and Portuguese
+
+    The French, the Italians, the Spanish, and the Portuguese
+
+  In spring, summer, or in winter
+
+    In spring, summer, or winter (In spring, in summer, or in winter)","[strunk-elements-of-style-1920-p31 ch4] Titles. For the titles of literary works, scholarly usage prefers
+italics with capitalized initials. The usage of editors and publishers
+varies, some using italics with capitalized initials, others using Roman
+with capitalized initials and with or without quotation marks. Use
+italics (indicated in manuscript by underscoring), except in writing for
+a periodical that follows a different practice. Omit initial A or
+The from titles when you place the possessive before them.
+
+  The Iliad; the Odyssey; As You Like It; To a Skylark; The
+  Newcomes; A Tale of Two Cities; Dickens's Tale of Two Cities.","[strunk-elements-of-style-1920-p27 ch3] In notebooks, in newspapers, in handbooks of literature, summaries of
+one kind or another may be indispensable, and for children in primary
+schools it is a useful exercise to retell a story in their own words.
+But in the criticism or interpretation of literature the writer should
+be careful to avoid dropping into summary. He may find it necessary to
+devote one or two sentences to indicating the subject, or the opening
+situation, of the work he is discussing; he may cite numerous details to
+illustrate its qualities. But he should aim to write an orderly
+discussion supported by evidence, not a summary with occasional comment.
+Similarly, if the scope of his discussion includes a number of works, he
+will as a rule do better not to take them up singly in chronological
+order, but to aim from the beginning at establishing general
+conclusions.",2,"Top-1 chứa đủ quy tắc kèm ví dụ, trang 23"
